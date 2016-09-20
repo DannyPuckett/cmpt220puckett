@@ -1,4 +1,5 @@
-
+// == missing header
+// == indentation!
   import java.util.Scanner; // Scanner is in the java.util package
   public class problem2_6 {  
     public static void main(String[] args) {  
@@ -12,6 +13,7 @@
 
     
 	
+    // == tabs
 		System.out.println("You will be instructed to enter a number in between 0 and 1000, ");
 	    System.out.println("This number will be added 'digit for digit' and then processed and displayed,");
 		System.out.println("Here is an example of what occurs: enter 999 ---> summation 9 + 9 + 9 = 27");

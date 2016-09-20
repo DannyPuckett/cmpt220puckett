@@ -1,4 +1,5 @@
-
+// == missing header
+// == incorrect indentation
   import java.util.Scanner; // Scanner is in the java.util package
   public class problem2_5 {  
     public static void main(String[] args) {  
@@ -12,6 +13,7 @@
 
     
 	
+// == you are using tabs!!
 		System.out.println("This program is best utilized as a tip calculator and total summator! ");
 	    System.out.println("To do so enter a subtotal when prompted, and a gratuity rate when also prompted... ");
 	

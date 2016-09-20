@@ -1,4 +1,6 @@
+// == missing header
 
+// == incorrect indentation
   import java.util.Scanner; // Scanner is in the java.util package
   public class compentencytest {  
     public static void main(String[] args) {  
@@ -14,6 +16,7 @@
 	
 		
 	
+// == using tabs!!
 	System.out.println("Let's Calculate Your Class Average... ");
     System.out.println("[Enter your midterm exam grade:] ");
     double midterm = input.nextDouble();

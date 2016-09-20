@@ -1,4 +1,5 @@
-  
+// == missing header
+// == incorrect indentation
   import java.util.Scanner; // Scanner is in the java.util package
   public class problem2_1 {  
     public static void main(String[] args) {  
